@@ -3,6 +3,7 @@ marketing insight form a super store data
 ## Introduction
 The aim of the project is to present a brief insight into the marketing side of the superstore data. The data was obtained from Kaggle and was analysed in powerBI.
 ## Observation
+![](Scrrr2.png)
 The generated sales dashboard by product category showed a few trends in sales data that can be used for future informed decision-making. 
 •	The top 5 state and cities with highest sales are highlighted as well as the 5 lowest sale cities. This can be used to decide on resource allocation for incentives and advertisement.
 •	Total sales for the 3 years period was $ 2.3 Million
