@@ -1,5 +1,5 @@
 # HNG--data-analysis-project-1
-marketing insight form a super store data
+Marketing insight from a super store data set: An project from HNG- internship program (https://hng.tech/internship, or https://hng.tech/hire/data-analysts)
 ## Introduction
 The aim of the project is to present a brief insight into the marketing side of the superstore data. The data was obtained from Kaggle and was analysed in powerBI.
 ## Observation
@@ -10,5 +10,5 @@ The generated sales dashboard by product category showed a few trends in sales d
 •	Product categories technology recorded the highest sales at $836.15K then furniture and office supplies respectively. 
 •	The dashboard showed similar patterns of sales across the four (4) year sales review with lowest sales recorded in January and highest in November except in 2016 with highest in December.
 ## Conclusion
-With this, the inventory can plan to restock effectively while strategy to increasing sales of other items can be planned. Besides, sales increases toward the end of the yea, hence marketing team should gear up to maximize sales in this period through promos, discount and other sales strategies.
+With this, the inventory can plan to restock effectively while strategy to increasing sales of other items can be planned. Besides, sales increases toward the end of the year, hence marketing team should gear up to maximize sales in this period through promos, discount and other sales strategies.
 
